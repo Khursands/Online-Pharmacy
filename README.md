@@ -1,3 +1,9 @@
+# Developer Details: 
+Name: Khursand Sohail Iqbal
+Degree: Bachelors in Computer Science
+School: FAST-NUCES, Lahore
+
+
 # 🏥 MediCare+ Full-Stack Online Pharmacy
 
 A comprehensive, production-ready full-stack online pharmacy application built with modern technologies. Features a beautiful React frontend and a robust Node.js backend with real-time data, authentication, and complete e-commerce functionality.
