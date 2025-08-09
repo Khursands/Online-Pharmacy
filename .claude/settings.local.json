@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-react-app:*)",
+      "Bash(npm create:*)",
+      "Bash(rmdir:*)",
+      "Bash(rd:*)",
+      "Bash(rm:*)",
+      "Bash(npm install)",
+      "Bash(npm install:*)",
+      "Bash(npx tailwindcss init:*)",
+      "Bash(mkdir:*)",
+      "Bash(npm run dev:*)",
+      "Bash(npm run build:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(mv:*)",
+      "Bash(cp:*)",
+      "Bash(npm init:*)",
+      "Bash(npm run seed:*)",
+      "Bash(curl:*)",
+      "Bash(taskkill:*)",
+      "Bash(sqlite3:*)"
+    ],
+    "deny": []
+  }
+}
