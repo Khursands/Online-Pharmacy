@@ -1,0 +1,23 @@
+{
+  "name": "online-pharmacy-tests",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Selenium WebDriver (TypeScript) UI test suite for the Online Pharmacy app",
+  "scripts": {
+    "test": "mocha --require ts-node/register --timeout 60000 \"specs/**/*.spec.ts\"",
+    "test:headless": "HEADLESS=1 npm test",
+    "lint": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.3.16",
+    "@types/mocha": "^10.0.7",
+    "@types/node": "^20.16.0",
+    "chai": "^4.4.1",
+    "chromedriver": "^131.0.0",
+    "mocha": "^10.7.3",
+    "selenium-webdriver": "^4.25.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4",
+    "@types/selenium-webdriver": "^4.1.24"
+  }
+}
